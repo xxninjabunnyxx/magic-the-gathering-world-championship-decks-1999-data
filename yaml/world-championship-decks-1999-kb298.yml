@@ -1,0 +1,106 @@
+---
+object: card
+id: 11a699e0-ac11-4257-ae41-891fb7284c6d
+oracle_id: 8a7c6391-020a-4d7a-8abb-702631bbee56
+multiverse_ids: []
+tcgplayer_id: 164417
+cardmarket_id: 249695
+name: Karn, Silver Golem
+lang: en
+released_at: '1999-08-04'
+uri: https://api.scryfall.com/cards/11a699e0-ac11-4257-ae41-891fb7284c6d
+scryfall_uri: https://scryfall.com/card/wc99/kb298/karn-silver-golem?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/1/11a699e0-ac11-4257-ae41-891fb7284c6d.jpg?1562898537
+  normal: https://cards.scryfall.io/normal/front/1/1/11a699e0-ac11-4257-ae41-891fb7284c6d.jpg?1562898537
+  large: https://cards.scryfall.io/large/front/1/1/11a699e0-ac11-4257-ae41-891fb7284c6d.jpg?1562898537
+  png: https://cards.scryfall.io/png/front/1/1/11a699e0-ac11-4257-ae41-891fb7284c6d.png?1562898537
+  art_crop: https://cards.scryfall.io/art_crop/front/1/1/11a699e0-ac11-4257-ae41-891fb7284c6d.jpg?1562898537
+  border_crop: https://cards.scryfall.io/border_crop/front/1/1/11a699e0-ac11-4257-ae41-891fb7284c6d.jpg?1562898537
+mana_cost: "{5}"
+cmc: 5.0
+type_line: Legendary Artifact Creature — Golem
+oracle_text: |-
+  Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.
+  {1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn.
+power: '4'
+toughness: '4'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8bc653e3-56ce-4cd1-9590-a6134ec28b3a
+set: wc99
+set_name: World Championship Decks 1999
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/8bc653e3-56ce-4cd1-9590-a6134ec28b3a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc99&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc99?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/11a699e0-ac11-4257-ae41-891fb7284c6d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8a7c6391-020a-4d7a-8abb-702631bbee56&unique=prints
+collector_number: kb298
+digital: false
+rarity: rare
+card_back_id: 407ed11d-7b6f-4e1c-ab00-f49c25f170e3
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: 8e1b8e7a-e168-4071-89e4-e4eb51fa285e
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 7280
+penny_rank: 2509
+prices:
+  usd: '8.07'
+  usd_foil: 
+  usd_etched: 
+  eur: '4.75'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Karn%2C+Silver+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Karn%2C+Silver+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Karn%2C+Silver+Golem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/164417?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Karn%2C+Silver+Golem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Karn%2C+Silver+Golem&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

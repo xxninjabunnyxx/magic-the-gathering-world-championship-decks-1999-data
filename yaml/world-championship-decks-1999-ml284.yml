@@ -1,0 +1,108 @@
+---
+object: card
+id: d0d09d02-bfcf-4065-9fa3-7c511d905869
+oracle_id: 711cda97-bf57-4b22-b9c1-854ef448d27a
+multiverse_ids: []
+tcgplayer_id: 164998
+cardmarket_id: 249750
+name: Wild Dogs
+lang: en
+released_at: '1999-08-04'
+uri: https://api.scryfall.com/cards/d0d09d02-bfcf-4065-9fa3-7c511d905869
+scryfall_uri: https://scryfall.com/card/wc99/ml284/wild-dogs?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/0/d0d09d02-bfcf-4065-9fa3-7c511d905869.jpg?1562936992
+  normal: https://cards.scryfall.io/normal/front/d/0/d0d09d02-bfcf-4065-9fa3-7c511d905869.jpg?1562936992
+  large: https://cards.scryfall.io/large/front/d/0/d0d09d02-bfcf-4065-9fa3-7c511d905869.jpg?1562936992
+  png: https://cards.scryfall.io/png/front/d/0/d0d09d02-bfcf-4065-9fa3-7c511d905869.png?1562936992
+  art_crop: https://cards.scryfall.io/art_crop/front/d/0/d0d09d02-bfcf-4065-9fa3-7c511d905869.jpg?1562936992
+  border_crop: https://cards.scryfall.io/border_crop/front/d/0/d0d09d02-bfcf-4065-9fa3-7c511d905869.jpg?1562936992
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Creature — Dog
+oracle_text: |-
+  At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Wild Dogs.
+  Cycling {2} ({2}, Discard this card: Draw a card.)
+power: '2'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Cycling
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8bc653e3-56ce-4cd1-9590-a6134ec28b3a
+set: wc99
+set_name: World Championship Decks 1999
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/8bc653e3-56ce-4cd1-9590-a6134ec28b3a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc99&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc99?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d0d09d02-bfcf-4065-9fa3-7c511d905869/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A711cda97-bf57-4b22-b9c1-854ef448d27a&unique=prints
+collector_number: ml284
+digital: false
+rarity: common
+card_back_id: 407ed11d-7b6f-4e1c-ab00-f49c25f170e3
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: 80b7976a-7ce2-4d2b-80d1-61a973d337a5
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 20795
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wild+Dogs&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wild+Dogs&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wild+Dogs
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/164998?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wild+Dogs&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wild+Dogs&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
